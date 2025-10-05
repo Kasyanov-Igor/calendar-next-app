@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-calendar-next-app.vercel.app
+Посмотреть развернутую версию можно по ссылке:  
+🌐 [calendar-next-app.vercel.app](https://calendar-next-app.vercel.app)
 
 ## Getting Started
 
